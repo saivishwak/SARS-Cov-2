@@ -15,6 +15,14 @@
 - https://www.annualreviews.org/doi/pdf/10.1146/annurev.physchem.58.032806.104614
 - https://www.uniprot.org/
 
+### Work to be done
+- Trying to fold proteins from protein sequences using MD simulations
+- Using existing protein strutures of SARS-CoV-2 to understand its structure
+- How genome can be used in vaccine synthesis ?
+- Understanding various proteins in COVID-19 to study vulnerability
+- Medications and Home Remedies useful to treat SARS-CoV-2
+- Already Available medications and its effects on the virus
+
 ### SARS
 - SARS-CoV-2 is the new coronavirus that has led to the worst pandemic in recent history. Many researchers are trying to find a vaccine and other possible cure for this virus. Previously SARS Coronavirus was detected which had almost the same symptoms
 - SARS (Severe Acute Respiratory Syndrome) Coronavirus infects the epithelial cells within the lungs. Epithelial tissues line the outer surfaces of organs and blood vessels throughout the body and also inner surfaces of many cavities
