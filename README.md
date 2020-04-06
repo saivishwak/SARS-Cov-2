@@ -1,7 +1,19 @@
 ## Study on the Novel Coronavirus in Python
 
+### Requirements
+- Python3
+- Jupyter Notebook
+- nglview
+- openmm
+- pytraj (Available only for Linux and MAC OSX) - Used to visualize MD simulations
+- For windows recommended to use PyMol for visualization
+
 ### Resources
 - SARS-CoV-2 Genom is made public for researcher and scientists to collaborate. There are many genomes available, but in this study the genome was collected from https://www.ncbi.nlm.nih.gov/nuccore/NC_045512 
+- Protein Strucutres of SARS-CoV-2 can be found on https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/2019-nCov/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6407873/
+- https://www.annualreviews.org/doi/pdf/10.1146/annurev.physchem.58.032806.104614
+- https://www.uniprot.org/
 
 ### SARS
 - SARS-CoV-2 is the new ccoronavirus that has led to worst pandemic in recent history. Many researchers are trying to find vaccine and other possible sure for this virus. Previously SARS Coronavirus was deteted which had almost same sysmtoms
@@ -25,3 +37,11 @@
 - Prediction of protein structure from the amino acids sequence is one of the toughest probelems in copmuational science. The three dimensional structure of the protein is too complicated and needs a lot of computational power to run the simulations. 
 - There are many ways to proceed to get a protein strucutre. Homology, fold regonition and Molecular Dynamics simulations to model the folding
 
+### Vaccine
+- Vaccines work by building the immune system by letting in antigens of the pathogens (virus or bacteria) into body so that the immune system can learn fight against the virus. The immune system can safely learn to recogninze them and produce antibodies so that later when the immune system detects the virus it can attack rapidly by relaesing anti bodies
+
+#### Types of Vaccines
+- Live Attenuated vaccines: Live pathogen of weaker form are injected into body so that the body's immune system can learn how to fight against it. It is a very good simulation for the immune system to learn but it is not recommended to give to pateients with weak immunity
+- Innactivated Vaccines: Specific virus is killed and the dead cells are injected into the body. Even though they are dead the immune system can still learn how to fight against them
+- Conjugate Vaccines: Specific protien from the pathogen that when injected the immune system can learn
+- DNA Vaccines: injection with genetically engineered plasmid containing the DNA sequence encoding the antigen(s) against which an immune response is sought so cells directly produce an antibody, producing a protective immunological response.
