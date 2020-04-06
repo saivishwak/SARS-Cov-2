@@ -29,7 +29,7 @@
 - Tetherin is protein whose function blocks the release of HIV-1 viral particeles. And ORF7a protien in SARS-CoV-2 supresses the host tetherin activity. This is the reason researchers tried HIV drugs on COVID-19 patients
 - N protein of the SARS-CoV-2 packages the positve strand RNA genome into a helical ribonucleocapsid
 
-<img src="./Images/1.png" alt="Corona Virus Strucutre" width="200" height="200">
+<img src="./Images/1.png" alt="Corona Virus Strucutre" width="400" height="300">
 
 ### Copmutaional Methdos to help understand the virus
 - Genome of the virus can be very useful to predict its functionalities. Genom of the virus can be converted into proteins using compuational methods. The genome of SARS-CoV-2 is a positive-sense-single-stranded RNA virus. So it can be directly translated into chains of amino acids know as protein sequnece. This protein sequence is useful to predict the proteins structures and their functionalities. 
