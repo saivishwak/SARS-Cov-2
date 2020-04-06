@@ -39,6 +39,9 @@
 - Prediction of protein structure from the amino acids sequence is one of the toughest probelems in copmuational science. The three dimensional structure of the protein is too complicated and needs a lot of computational power to run the simulations. 
 - There are many ways to proceed to get a protein strucutre. Homology, fold regonition and Molecular Dynamics simulations to model the folding
 
+Corona Virus Spike Protein
+![Spike Protein](./Images/spike.png)
+
 ### Vaccine
 - Vaccines work by building the immune system by letting in antigens of the pathogens (virus or bacteria) into body so that the immune system can learn fight against the virus. The immune system can safely learn to recogninze them and produce antibodies so that later when the immune system detects the virus it can attack rapidly by relaesing anti bodies
 
