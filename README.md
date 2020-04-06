@@ -42,7 +42,7 @@
 - There are many ways to proceed to get a protein strucutre. Homology, fold regonition and Molecular Dynamics simulations to model the folding
 
 Corona Virus Spike Protein
-<img align="left" width="500" height="500" src="./Images/spike.png">
+![Spike Protein](./Images/spike.png){width:200}
 
 ### Vaccine
 - Vaccines work by building the immune system by letting in antigens of the pathogens (virus or bacteria) into body so that the immune system can learn fight against the virus. The immune system can safely learn to recogninze them and produce antibodies so that later when the immune system detects the virus it can attack rapidly by relaesing anti bodies
