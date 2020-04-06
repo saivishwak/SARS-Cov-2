@@ -31,6 +31,8 @@
 
 ![Corona Virus Strucutre](./Images/1.png)
 
+![Corona Virus Strucutre](./Images/Protein-strucutre.png)
+
 ### Copmutaional Methdos to help understand the virus
 - Genome of the virus can be very useful to predict its functionalities. Genom of the virus can be converted into proteins using compuational methods. The genome of SARS-CoV-2 is a positive-sense-single-stranded RNA virus. So it can be directly translated into chains of amino acids know as protein sequnece. This protein sequence is useful to predict the proteins structures and their functionalities. 
 - Proteins are chains of amino acids bonded together by peptide bonds and Protein strucutre can be considered as a sequence of secondary strucutre elements like alpha helices and beta sheets, which together forms the three dimensional protein structure
