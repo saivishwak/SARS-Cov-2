@@ -49,7 +49,7 @@
 - Prediction of protein structure from the amino acids sequence is one of the toughest problems in computational science. The three-dimensional structure of the protein is too complicated and needs a lot of computational power to run the simulations 
 - There are many ways to proceed to get a protein strucutre. Homology, fold regonition and Molecular Dynamics simulations to model the folding
 
-Corona Virus Spike Protein
+Corona Virus Spike Protein - Source : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6407873/
 ![Spike Protein](./Images/spike.png?style=centerme)
 
 ### Vaccine
