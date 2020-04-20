@@ -21,11 +21,12 @@ Download libraries using [file](./requirements.txt)
 ### Work to be done
 - Tuning of Hyperparameters
 - Create a question and answer model from the clustered data
-- Make it more usable
+- Make it more user friendly
+- Use GPU for faster computation
 
 ### Tool
 - This tool uses K means clustering to cluster all the documents and then text filtration methods  to extract the documents with input keywords
 - This will help lot of researcers to analyze huge amount of data within reasonable time
 
 Clustered Documents
-![Clusters](./Images/Text_Extraction_Tool/Cluster.svg?style=centerme)
+![Clusters](./Images/Text_Extraction_Tool/Cluster.png?style=centerme)
