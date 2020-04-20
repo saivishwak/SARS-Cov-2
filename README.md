@@ -8,6 +8,8 @@
 - pytraj (Available only for Linux and MAC OSX) - Used to visualize MD simulations
 - For windows recommended to use PyMol for visualization
 
+### Click [here](./Text_Extraction_Tool) for Text Extraction Tool
+
 ### Resources
 - SARS-CoV-2 Genom is made public for researcher and scientists to collaborate. There are many genomes available, but in this study the genome was collected from https://www.ncbi.nlm.nih.gov/nuccore/NC_045512 
 - Protein Structures of SARS-CoV-2 can be found on https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/2019-nCov/

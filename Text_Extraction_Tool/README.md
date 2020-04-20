@@ -16,7 +16,7 @@
 
 Download libraries using [file](./requirements.txt)
 
-### Click here to view [Notebook File](./Clustering.ipynb)
+### Click [here](./Clustering.ipynb) to view Notebook File
 
 ### Work to be done
 - Tuning of Hyperparameters
