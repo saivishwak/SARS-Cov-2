@@ -16,8 +16,7 @@
 
 Download libraries using [file](./requirements.txt)
 
-### Jupyter Notebook
-- Click here to view [Notebook File](./Clustering.ipynb)
+### Click here to view [Notebook File](./Clustering.ipynb)
 
 ### Work to be done
 - Tuning of Hyperparameters
