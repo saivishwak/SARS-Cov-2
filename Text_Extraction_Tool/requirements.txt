@@ -1,0 +1,9 @@
+numpy
+pandas
+spacy
+seaborn
+scikit-learn
+tqdm
+matplotlib
+ipywidgets
+langdetect
