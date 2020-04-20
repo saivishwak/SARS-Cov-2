@@ -14,10 +14,10 @@
 - matplotlib
 - ipywidgets
 
-Download libraries using [link](./requirements.txt)
+Download libraries using [file](./requirements.txt)
 
 ### Jupyter Notebook
-- Notebook File [Link](./Clustering.ipynb)
+- Click here to view [Notebook File](./Clustering.ipynb)
 
 ### Work to be done
 - Tuning of Hyperparameters
@@ -25,7 +25,7 @@ Download libraries using [link](./requirements.txt)
 - Make it more usable
 
 ### Tool
-- This tool uses K means clustering to cluster all the documents and then text filtration methods  to extract the documents with iput keywords
+- This tool uses K means clustering to cluster all the documents and then text filtration methods  to extract the documents with input keywords
 - This will help lot of researcers to analyze huge amount of data within reasonable time
 
 Clustered Documents
