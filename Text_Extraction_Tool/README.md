@@ -28,4 +28,4 @@ Download libraries using [file](./requirements.txt)
 - This will help lot of researcers to analyze huge amount of data within reasonable time
 
 Clustered Documents
-![Clusters](./Images/Text_Extraction_Tool/cluster.png?style=centerme)
+![Clusters](./Images/Text_Extraction_Tool/Cluster.svg?style=centerme)
